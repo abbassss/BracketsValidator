@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\PejwakBaran\PejwakBaran\obj\Debug\netcoreapp2.1\PejwakBaran.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\PejwakBaran\PejwakBaran\obj\Debug\netcoreapp2.1\PejwakBaran.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\PejwakBaran\PejwakBaran\obj\Debug\netcoreapp2.1\PejwakBaran.AssemblyInfo.cs
+C:\Users\Admin\source\repos\PejwakBaran\PejwakBaran\bin\Debug\netcoreapp2.1\PejwakBaran.deps.json
+C:\Users\Admin\source\repos\PejwakBaran\PejwakBaran\bin\Debug\netcoreapp2.1\PejwakBaran.runtimeconfig.json
+C:\Users\Admin\source\repos\PejwakBaran\PejwakBaran\bin\Debug\netcoreapp2.1\PejwakBaran.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\PejwakBaran\PejwakBaran\bin\Debug\netcoreapp2.1\PejwakBaran.dll
+C:\Users\Admin\source\repos\PejwakBaran\PejwakBaran\bin\Debug\netcoreapp2.1\PejwakBaran.pdb
+C:\Users\Admin\source\repos\PejwakBaran\PejwakBaran\obj\Debug\netcoreapp2.1\PejwakBaran.dll
+C:\Users\Admin\source\repos\PejwakBaran\PejwakBaran\obj\Debug\netcoreapp2.1\PejwakBaran.pdb
